@@ -12,7 +12,7 @@ author: Lê Trần Trí Thức
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "http://thuclttcs.github.io"
   Algorithm: "algorithm"
   About Me: "aboutme"
 
