@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome to My Blog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Le Tran Tri Thuc. Bellow is my information of me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm 20 years old
+- I'm Student in Ho Chi Minh City University of Education
+- My major: Computer Science
+- Bio: Algorithm, Game, Music
 
-What else do you need?
+
 
 ### my history
 
