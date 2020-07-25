@@ -13,10 +13,11 @@ author: Lê Trần Trí Thức
 
 navbar-links:
   Home: "http://thuclttcs.github.io"
-  Competitive Programming: "cp"
-  My Life: "life"
+  Blog:
+    - Competitive Programming: "cp"
+    - My Life: "life"
+  Algorithm: "algorithm"
   About Me: "aboutme"
-  Document: "doc"
 
 # --- Logo --- #
 
