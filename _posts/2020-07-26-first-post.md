@@ -4,7 +4,7 @@ title: Bài viết đầu tiên của tôi
 subtitle: Những gì sẽ có trong trang Blog của mình
 cover-img: /assets/img/2020-07-26-1-cover-img.jpg
 thumbnail-img: /assets/img/2020-07-26-1-thumb-img.jpg
-tags: [blog]
+tags: [blog,life]
 comments: true
 ---
 
