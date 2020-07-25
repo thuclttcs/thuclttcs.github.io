@@ -2,7 +2,7 @@
 layout: post
 title: Bài viết đầu tiên của tôi
 subtitle: Những gì sẽ có trong trang Blog của mình
-thumbnail-img: /assets/img/2020-07-26-1-cover-img.jpg
+cover-img: /assets/img/2020-07-26-1-cover-img.jpg
 tags: [blog]
 comments: true
 ---
