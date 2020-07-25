@@ -3,10 +3,10 @@ layout: post
 title: Chuỗi contest thất vọng!
 subtitle: Codeforces Round 653 - 659
 cover-img: /assets/img/2020-07-27-cover-img.jpg
-# thumbnail-img: /assets/img/2020-07-26-2-cover-img.jpg
 image: /assets/img/2020-07-27-cover-img.jpg
 tags: [blog,CP]
 comments: true
+share-img: /assets/img/2020-07-27-cover-img.jpg
 ---
 
 ![disappointed](/assets/img/2020-07-27-cf-standing.png)<br/>

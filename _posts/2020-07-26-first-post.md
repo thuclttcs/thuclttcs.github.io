@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/2020-07-26-1-thumb-img.jpg
 image: /assets/img/2020-07-26-1-thumb-img.jpg
 tags: [blog,life]
 comments: true
+share-img: /assets/img/2020-07-26-1-cover-img.jpg
 ---
 
 Mình tạo ra blog này để chia sẻ những kiến thức, những điều mà mình thấy hay trong cuộc sống của mình, để lưu lại những khoảnh khắc của bản thân và để lắng nghe các bạn!
