@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Welcome to My Blog
 ---
-![avatar](/assets/img/avatar.png){: width=50 height=50 style="float:left; padding:16px";border-radius: 50%;}
+![avatar](/assets/img/avatar-about-me.png)<br/>
 My name is Le Tran Tri Thuc. Bellow is some informations about me:
 
 - I'm 20 years old
