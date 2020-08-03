@@ -3,6 +3,7 @@ layout: post
 title: Algorithm contests weekly
 subtitle: Codeforces Round
 cover-img: /assets/img/2020-08-03-cover-img-2.jpg
+thumbnail-img: /assets/img/2020-08-03-thumb-img.jpeg
 tags: [blog,CP]
 comments: true
 share-img: /assets/img/2020-08-03-thumb-img.jpeg
