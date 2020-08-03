@@ -14,4 +14,4 @@ share-img: /assets/img/2020-08-03-cover-img-3.jpg
 - Link video bên dưới nha:
   - Part 1: Time complexity: [Part 1](https://ittforum.congnv.website/post/meeting-pttkgt-1)
   - Part 2: DP and Recursive: [Part 2](https://ittforum.congnv.website/post/meeting-pttkgt-2)
-- Bên trên là link forum khá hay để chia sẻ của nhóm các bạn sinh viên CNTT - HCMUE - K44 tạo ra, hiện được quản lý bởi bạn [Nguyễn Văn Công](https://www.facebook.com/congnv0330)
+- Bên trên là link forum khá hay để chia sẻ của nhóm các bạn sinh viên CNTT - HCMUE - K44 tạo ra, hiện được quản lý bởi bạn [Nguyễn Văn Công](https://www.facebook.com/congnv0330) [@thanhcong2930](https://github.com/thanhcong2930)
