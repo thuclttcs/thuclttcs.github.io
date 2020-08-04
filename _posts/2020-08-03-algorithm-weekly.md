@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm contests weekly
+title: Algorithm contests weekly 1
 subtitle: Codeforces Round
 cover-img: /assets/img/2020-08-03-cover-img-2.jpg
 thumbnail-img: /assets/img/2020-08-03-thumb-img.jpeg
