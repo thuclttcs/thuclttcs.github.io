@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talking about Algorithms Analysis and Design
+title: Talking about Algorithm Analysis and Design
 subtitle: Dựa trên việc ôn tập môn Phân tích và thiết kế giải thuật, mình có tạo một buổi meeting và trao đổi về các vấn đề Độ phức tạp thuật toán, Quy hoạch động và Đệ quy
 cover-img: /assets/img/2020-08-03-cover-img-3.jpg
 image: /assets/img/2020-08-03-cover-img-3.jpg
