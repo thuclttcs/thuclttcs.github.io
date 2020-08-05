@@ -2,12 +2,11 @@
 layout: post
 title: I Love Viet Nam
 subtitle: Tự hào Việt Nam
-cover-img: /assets/img/2020-07-26-1-cover-img.jpg
-thumbnail-img: /assets/img/2020-07-26-1-thumb-img.jpg
-image: /assets/img/2020-07-26-1-thumb-img.jpg
+cover-img: /assets/img/2020-08-05-cover-img.jpg
+thumbnail-img: /assets/img/2020-08-05-thumb-img.jpg
 tags: [blog,life]
 comments: true
-share-img: /assets/img/2020-07-26-1-cover-img.jpg
+share-img: /assets/img/2020-08-05-cover-img.jpg
 ---
 
 - Một buổi chiều làm việc xong, tính nằm ngủ tí vì mấy hôm liền toàn mơ thấy gì đâu không :'( xong rồi giật mình dậy không ngủ lại được nên thiếu ngủ ghê. Nhưng số trời, nhà kế bên sửa nhà và thế là không ngủ được luôn. Xong mình cầm cầm điện thoại xong tự nhiên có hứng vô xem phim, mình chọn một tập phim lẻ của Việt Nam [Gái già lắm chiêu 3](https://g.co/kgs/dbeK5B) (Không có PR hay gì đâu :v) và mọi suy nghĩ của mình bắt đầu từ đây.
