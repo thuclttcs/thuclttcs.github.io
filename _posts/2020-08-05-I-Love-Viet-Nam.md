@@ -3,7 +3,7 @@ layout: post
 title: I Love Viet Nam
 subtitle: Tự hào Việt Nam
 cover-img: /assets/img/2020-08-05-cover-img.jpg
-thumbnail-img: /assets/img/2020-08-05-thumb-img.jpg
+thumbnail-img: /assets/img/2020-08-05-thumb-img.PNG
 tags: [blog,life]
 comments: true
 share-img: /assets/img/2020-08-05-cover-img.jpg
