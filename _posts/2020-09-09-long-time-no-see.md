@@ -2,12 +2,12 @@
 layout: post
 title: Long time no see - Algorithm contests weekly
 subtitle: Do you remember me !?
-cover-img: /assets/img/2020-07-26-1-cover-img.jpg
-thumbnail-img: /assets/img/2020-07-26-1-thumb-img.jpg
-image: /assets/img/2020-07-26-1-thumb-img.jpg
+cover-img: /assets/img/2020-09-09-cover-img.jpg
+thumbnail-img: /assets/img/2020-09-09-thumb-img.png
+image: /assets/img/2020-09-09-cover-img.jpg
 tags: [blog,life,CP,]
 comments: true
-share-img: /assets/img/2020-07-26-1-cover-img.jpg
+share-img: /assets/img/2020-09-09-cover-img.jpg
 ---
 
 Như tiêu đề, lâu lắm rồi mình không có bài viết trên blog, do hôm trước mình bận ôn thi nên mình cũng không có time để chém gió trên blog. Sẵn tiện nói về chuyện thi, dù chưa có hết các quả các môn nhưng nói chung thì cũng khá ok, 3 điểm A rồi hehehehehe ^^!
