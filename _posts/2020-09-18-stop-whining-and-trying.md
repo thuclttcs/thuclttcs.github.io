@@ -3,7 +3,7 @@ layout: post
 title: Stop Whining and Trying
 subtitle: Tâm sự đêm khuya!@@
 cover-img: /assets/img/1809cover.jpg
-thumbnail-img: /assets/img/1809thumb.png
+thumbnail-img: /assets/img/1809thumb.PNG
 tags: [blog,life]
 comments: true
 share-img: /assets/img/1809cover.jpg
