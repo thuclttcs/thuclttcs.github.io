@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop Whining and Trying
+title: Stop Lamenting and Trying
 subtitle: Tâm sự đêm khuya!@@
 cover-img: /assets/img/1809cover.jpg
 thumbnail-img: /assets/img/1809thumb.PNG
