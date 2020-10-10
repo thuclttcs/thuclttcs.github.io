@@ -9,4 +9,4 @@ I'm Le Tran Tri Thuc. Bellow is some informations about me:
 - I'm 20 years old
 - I'm a Student of Information Technology at Ho Chi Minh City University of Education
 - My major: Computer Science
-- Bio: Algorithm, Game, Music
+- Hobbies: Algorithm, Game, Music
