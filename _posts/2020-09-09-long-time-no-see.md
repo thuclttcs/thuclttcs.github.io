@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/2020-09-09-thumb-img.PNG
 image: /assets/img/2020-09-09-cover-img.jpg
 tags: [blog,life,CP,]
 comments: true
+show-avatar: false
 share-img: /assets/img/2020-09-09-cover-img.jpg
 ---
 
