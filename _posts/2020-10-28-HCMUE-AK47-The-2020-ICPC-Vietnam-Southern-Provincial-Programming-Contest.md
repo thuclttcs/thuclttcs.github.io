@@ -6,6 +6,7 @@ cover-img: /assets/img/271020_cover_2.png
 thumbnail-img: /assets/img/271020_thumb.png
 tags: [blog,life]
 comments: true
+show-avatar: false
 share-img: /assets/img/271020_cover_2.png
 ---
 Viết để sau này có cái đọc cho vui :v !!!<br/>
