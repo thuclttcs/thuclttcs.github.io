@@ -4,7 +4,7 @@ title: HCMUE.AK-47 in The 2020 ICPC Vietnam Southern Provincial Programming Cont
 subtitle: #70
 cover-img: /assets/img/271020_cover_2.png
 thumbnail-img: /assets/img/271020_thumb.png
-tags: [blog,life]
+tags: [blog,CP]
 comments: true
 show-avatar: false
 share-img: /assets/img/271020_cover_2.png
