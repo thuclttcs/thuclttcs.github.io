@@ -41,7 +41,7 @@ social-network-links:
   facebook: "thucltt.it"
   github: thucltthcmue
   twitter: thucltt
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
