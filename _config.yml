@@ -12,7 +12,7 @@ author: Lê Trần Trí Thức
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "http://thuclttcs.github.io"
+  Home: "http://thucltt.com"
   Blog: "blog"
   Algorithm: "algorithm"
   About Me: "aboutme"
@@ -39,8 +39,8 @@ round-avatar: true
 social-network-links:
   email: "thucltt.it.hcmue@gmail.com"
   facebook: "thucltt.it"
-  github: thuclttcs
-  twitter: thuclttcs
+  github: thucltthcmue
+  twitter: thucltt
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
